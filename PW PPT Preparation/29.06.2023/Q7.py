@@ -1,5 +1,5 @@
 class Solution:
-    def maxCount(self, m: int, n: int, ops: List[List[int]]) -> int:
+    def maxCount(self, m: int, n: int, ops: list[list[int]]) -> int:
         min_y = m
         min_x = n
 
